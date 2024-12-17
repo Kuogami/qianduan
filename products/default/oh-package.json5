@@ -1,0 +1,13 @@
+{
+  "name": "default",
+  "version": "1.0.0",
+  "description": "Please describe the basic information.",
+  "main": "",
+  "author": "",
+  "license": "",
+  "dependencies": {
+      "my": "file:../../features/my",
+      "todos": "file:../../features/todos",
+      "notes": "file:../../features/notes"
+    }
+}
